@@ -1,7 +1,7 @@
 
 # Sistema de Gerenciamento Acadêmico
 
-Este é um sistema simples de gerenciamento acadêmico desenvolvido em Java. Foi feito para a disciplina Programação Orientada a Objetos (3° período) do curso de Ciência da computação - UFU. O projeto tem como objetivo estudar conceitos básicos da programação orientada a objetos
+Sistema de linha de comando desenvolvido em Java para gerenciamento de informações acadêmicas. Permite cadastrar estudantes (graduação e pós-graduação), professores, disciplinas, turmas e lançar notas. Conta com persistência em arquivos de texto e estrutura orientada a objetos. Foi feito para a disciplina Programação Orientada a Objetos (3° período) do curso de Ciência da computação - UFU. O projeto tem como objetivo estudar conceitos básicos da programação orientada a objetos
 
 ## Funcionalidades
 
